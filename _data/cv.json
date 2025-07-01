@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jayashree Narayan",
+    "email": "jayashreenarayangs@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://jayashreenarayan.github.io/",
+    "summary": "Incoming MSCA PhD candidate at FU Berlin",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Chennai",
+      "countryCode": "India",
       "region": ""
     },
     "profiles": [
@@ -33,120 +33,58 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "FU Berlin",
+      "area": "Incoming PhD candidate",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2025",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "IISER Mohali",
+      "area": "BS-MS Dual Degree in Physics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "startDate": "2020",
+      "endDate": "2025",
+      "gpa": 8.9,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Maharishi Vidya Mandir Chetpet, Chennai",
+      "area": "High school",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "startDate": "2016",
+      "endDate": "2020",
+      "gpa": "95.4%",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": ["Machine Learning", "Parallel Programming", "Monte Carlo Methods"],
+  "languages": ["Python", "C++", "C", "Julia"],
+  "interests": ["Carnatic Music", "Badminton", "Swimming", "Photography", "Reading", "Writing", "Poetry"],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Can close-in exoplanets form by pebble accretion?",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "05-05-2025",
+      "website": "https://academic.oup.com/mnras/article/doi/10.1093/mnras/staf734/8125472",
+      "summary": "Pebble accretion is the leading theory for the formation of exoplanets more massive than the Earth. Many parameters influence planet growth in the pebble accretion models. In this paper, we study the influence of pebble fragmentation velocity, turbulence strength, stellar metallicity, stellar mass, and planet location on the growth of planets located within 1 au from their parent stars. Analysing the close-in planets from NASA’s exoplanet archive, we find that the turbulence strength influences planet growth more than the pebble fragmentation velocity does. Planets orbiting stars with higher metallicity have an overall higher probability of reaching their pebble isolation mass than those orbiting lower metallicity stars, but the impact of metallicity is not as high as that of stellar mass, orbital separation, and most importantly disc turbulence."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Mass-Zero constrained molecular dynamics for electrostatic interactions",
+      "publisher": "ArXiv preprint",
+      "releaseDate": "26-05-2025",
+      "website": "https://arxiv.org/pdf/2505.20418",
+      "summary": "Optimal exploitation of supercomputing resources for the evaluation of electrostatic forces remains a challenge in molecular dynamics simulations of very large systems. The most efficient methods are currently based on particle-mesh Ewald sums and achieve semi-logarithmic scaling in the number of particles. These methods, however, solve the problem in reciprocal space, requiring extensive use of Fast Fourier transforms (FFT). The communication overhead associated with FFTs is a well-known bottleneck for high-end parallelization. In this work, we introduce a novel real-space approach to solve the Poisson equation on a grid. Our method exploits an extended Lagrangian in which the values of the field at the grid points are treated as auxiliary variables of zero inertia, and the discretized Poisson equation is enforced as dynamical constraint. We first analyze the method using a toy model, and then consider realistic simulations of molten NaCl that validate its ability to reproduce structural and transport properties, and showcase the features of our algorithm on a non-trivial benchmark. Finally, we discuss the computational performance and scaling behavior of the algorithm."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Turbulence inference from CO spectral observations",
+      "publisher": "Submitted to MNRAS",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
     }
   ]
 }
