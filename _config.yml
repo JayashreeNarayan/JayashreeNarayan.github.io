@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Jayashree Narayan"
   pronouns         : "she/her"  
-  bio              : "I'm a final year BS-MS student majoring in Physics. I love coding and computational physics. I work mainly on computational projects spanning various fields of physics"
+  bio              : "Master's in Physics from IISER Mohali. Incoming MSCA PhD candidate at FU Berlin."
   location         : "India"
   employer         : "IISER Mohali"
   uri              : # URL
@@ -216,16 +216,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
