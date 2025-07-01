@@ -13,5 +13,5 @@ Outside research, I am an avid reader and writer, badminton player and a carnati
 
 News
 ----
-- I will be joining FU Berlin as an MSCA scholar for my PhD! I will be working with Prof. Cecilia Clementi in building Machine Learning models to better model Quantum dots! -- Apr 2025
-- I finally made this website! I've been putting it off for so long. -- Jun 2025
+- Apr 2025: I will be joining FU Berlin as an MSCA scholar for my PhD! I will be working with Prof. Cecilia Clementi in building Machine Learning models to better model Quantum dots!
+- Jun 2024: I finally made this website! I've been putting it off for so long. 
