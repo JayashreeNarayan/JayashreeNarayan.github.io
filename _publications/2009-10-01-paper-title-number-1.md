@@ -11,4 +11,4 @@ paperurl: 'https://academic.oup.com/mnras/article/doi/10.1093/mnras/staf734/8125
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Jayashree Narayan, Joanna Drążkowska, Vignesh Vaikundaraman, Can close-in exoplanets form by pebble accretion?, Monthly Notices of the Royal Astronomical Society, Volume 540, Issue 1, June 2025, Pages 165–174, https://doi.org/10.1093/mnras/staf734
 '
-
+---
