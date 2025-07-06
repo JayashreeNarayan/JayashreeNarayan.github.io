@@ -1,48 +1,65 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jayashree Narayan",
+    "label": "Doctoral Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "jayashreenarayangs@gmail.com",
+    "summary": "Incoming MSCA PhD candidate at FU Berlin with Prof. Cecilia Clementi. Master's degree in Physics at IISER Mohali, India.",
+
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "JayashreNarayan",
+        "url": "https://twitter.com/JayashreNarayan"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "FU Berlin",
+      "position": "Doctoral Candidate",
+      "url": "https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-clementi/index.html",
+      "startDate": "Sept. 2025",
+      "highlights": ["Funded by the MSCA doctoral network for Track the Twin. Supervised by Prof. Cecilia Clementi."]
+    },
+
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Inspire Potentials Fellow",
+      "position": "École Polytechnique Fédérale de Lausanne (EPFL)",
+      "url": "https://nccr-marvel.ch/outreach/equal-opportunities/inspire-potentials-fellows/jayashree-narayan",
+      "startDate": "Aug. 2024",
+      "endDate": "Apr. 2025",
+      "highlights": ["My thesis efficiently implemented a novel method for simulating electrostatic interactions of charged particles in molecular dynamics. The algorithm leverages a constrained extended Lagrangian formalism to integrate the Poisson equation, promising computational advantages in highly parallelized setups. A liquid molten salt serves as the test system. The study covered the theoretical framework, system setup, and parallelization strategies used to accelerate simulations within an in-house code"],
+      "publication": ["https://arxiv.org/abs/2505.20418"]
+    },
+
+    {
+      "name": "Future Research Talent Fellow",
+      "position": "Australian National University",
+      "url": "https://science.anu.edu.au/study/scholarships/future-research-talent-awards-india",
+      "startDate": "May. 2024",
+      "endDate": "Aug. 2024",
+      "highlights": ["I worked under the guidance of Prof. Christoph Feddarath at the Australian National University, Canberra, Australia, from May 2024 to August 2024, with the FRT Scholarship. I completed a research project in Star Formation wherein I studied the influence of optical thickness on turbulent star-forming molecular clouds. My work was an extension of Prof. Christoph's paper in 2021 where the same work was done in an optically thin environment. The results fortify the understanding that optical thickness in clouds plays a significant role in the way clouds collapse and that optical thickness cannot be ignored."],
+      "publication": ["Submitted to MNRAS"]
+    },
+
+    {
+      "name": "DAAD-WISE Scholar",
+      "position": "Max Planck Institute for Solar System Research",
+      "url": "https://www.mps.mpg.de/en",
+      "startDate": "May. 2023",
+      "endDate": "Aug. 2023",
+      "highlights": ["I worked under the guidance of Dr Joanna Drążkowska at the Max Planck Institute for Solar System Research in Göttingen, Germany, from May 2023 to August 2023, with a DAAD-WISE Scholarship. I completed a research project on Planet Formation wherein I studied the influence of disk turbulence, pebble fragmentation and stellar metallicity on planet growth by pebble accretion model using the pebble predictor (pioneered by Dr Drążkowska) along with the analytical fit from Ormel & Liu (2018); Liu & Ormel (2018). The results fortify the theory that the likelihood of planet formation (for close-in planets) is high when there is high pebble fragmentation, low disk turbulence, or even a very metallic star."],
+      "publication": ["https://academic.oup.com/mnras/article/540/1/165/8125472?login=false"]
+    },
+    {
+      "name": "DAAD-WISE Scholar",
+      "position": "Max Planck Institute for Solar System Research",
+      "url": "https://www.mps.mpg.de/en",
+      "startDate": "May. 2023",
+      "endDate": "Aug. 2023",
+      "highlights": ["I worked under the guidance of Dr Joanna Drążkowska at the Max Planck Institute for Solar System Research in Göttingen, Germany, from May 2023 to August 2023, with a DAAD-WISE Scholarship. I completed a research project on Planet Formation wherein I studied the influence of disk turbulence, pebble fragmentation and stellar metallicity on planet growth by pebble accretion model using the pebble predictor (pioneered by Dr Drążkowska) along with the analytical fit from Ormel & Liu (2018); Liu & Ormel (2018). The results fortify the theory that the likelihood of planet formation (for close-in planets) is high when there is high pebble fragmentation, low disk turbulence, or even a very metallic star."],
+      "publication": ["https://academic.oup.com/mnras/article/540/1/165/8125472?login=false"]
     }
   ],
   "education": [
