@@ -9,7 +9,7 @@ profile:
   image: prof_pic_color.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Chennai</p>
+    <p>Chennai,</p>
     <p>India</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
