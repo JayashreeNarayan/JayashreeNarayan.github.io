@@ -7,7 +7,7 @@ subtitle: <a href='#'>Doctoral Candidate</a>. | Prev - IISER Mohali
 profile:
   align: right
   image: prof_pic_color.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Chennai,</p>
     <p>India</p>
