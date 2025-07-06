@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Doctoral Candidate</a>. | Prev - IISER Mohali
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Chennai</p>
+    <p>India</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,10 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an incoming PhD candidate at FU Berlin funded by the [MSCA Doctoral Network](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks) [Track the Twin](https://trackthetwin.ugent.be/). I will be working with [Prof. Cecilia Clementi](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-clementi/index.html) and I start in September 2025!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In June 2025 I graduated from [IISER Mohali](https://www.iisermohali.ac.in/) with a BS-MS dual degree in Physics. I started my journey at IISER with a profound interest in Astronomy which gradually changed to the Dynamics of smaller systems. With my interest in Astronomy, I did internships at [Max Planck Institute for Solar System Research](https://www.mps.mpg.de/en), Goettingen and [The Australian National Univeristy](https://www.anu.edu.au/), Canberra. In my final year at IISER, my interests changed. For my Master's thesis project, I worked at [EPFL Switzerland](https://www.epfl.ch/en/) with [Prof. Sara Bonella](https://people.epfl.ch/sara.bonella/?lang=en) at [CECAM](https://www.cecam.org/). Explore the details of my projects on projects tab.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current interests include Machine Learning for Material science. 
 
-I am an incoming MSCA PhD student at FU Berlin!
