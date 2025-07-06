@@ -2,98 +2,96 @@
   type: map
   contents:
     - name: Full Name
-      value: Jayashree Narayan
-        #- name: Date of Birth
-        #value: 24th August 1997
-        #- name: Languages
-        #value: English, Hindi, French
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
+    - name: Languages
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: BS+MS, Physics
-      institution: IISER Mohali, India
-      year: 2025
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - Master's in Physics
-        - Master's thesis project at CECAM, EPFL with Sara Bonella
-        - Master's Thesis Title - "A Constrained Extended Lagrangian Approach to Calculate Electrostatic Forces"
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Master's Thesis Project
-      institution: CECAM, EPFL
-      year: 08/2024 - 04/2025
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-        - Hosted by the group of Prof. Joonho Lee 
-
-    - title: Postdoctoral Associate
-      institution: Massachusetts Institute of Technology
-      year: 09/2024- Present
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
       description:
-        - Awarded MIT School of Engineering's Postdoc Fellowship for Excellence in Engineering
-        - Collaborating with the group of Prof. Tess Smidt 
-    
-    - title: AI4Science Intern
-      institution: Microsoft Research, Berlin 
-      year: 07/2023-10/2023
-    
-    - title: INSPIRE Potential Fellow
-      institution: École Polytechnique Fédérale de Lausanne
-      year: 08/2019-05/2020
+        - Description 1.
+        - Description 2.
 
-    - title: Future Research Talent Scholar
-      institution: Australian National University (ANU)
-      year: 05/2019-08/2019
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
 
-    - title: Intern 
-      institution: NASA Jet Propulsion Lab  
-      year: 05/2018-07/2018
-    
-    - title: Summer Undergraduate Research Fellow
-      institution: LIGO, California Institute of Technology
-      year: 05/2017-07/2017
-      description: https://caltechexperimentalgravity.github.io/Kavli2017.html
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
 
-        #- title: Codes contributed to 
-        #  type: time_table
-        #  contents:
-        #    - title: 
-        #      year: 2022-present
-        #      description:
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
 
-- title: Honors and Awards
-  type: nested_list
-  contents:
-    - MIT Postdoctoral Fellowship for Excellence in Engineering (2024)
-    - Travel Fellowship from CECAM-Berlin (2023)
-    - NCCR MARVEL Inspire Potentials Fellowship (2020)
-    - Future Research Talent Award, Australian National University (2019)
-
-- title: Organization of Workshops and Conferences
+- title: Open Source Projects
   type: time_table
   contents:
-    - title: Young and Early Career Researcher’s Workshop on Machine Learning Interatomic Potentials 
-      year: 11/2023
-      institution: co-organized with Max Veit, Carlo Maino, Felix-Cosmin Mocanu, Chiheb B. Mahmoud, Kevin K. Huguenin-Dumittan, Sanggyu Chong, Davide Tisi, and Federico Grasselli
-      description: Funded by CECAM, Psi-K, ERC FIAMMA
-      link: https://www.mlip-workshop.xyz/
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-    - title: Swiss equivariant learning workshop 
-      year: 07/2022
-      institution: co-organized with Martin Uhrin, Mario Geiger, Alby Musaelian, Simon Batzner, Josh Rackers, Thomas Hardin, and Tess Smidt
-      link: https://sites.google.com/mit.edu/swiss-equivariant-learning
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items:
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
 
-        #- title: Academic Interests
-        #  type: nested_list
-        #  contents:
-        #    - title: Topic 1.
-        #      items:
-        #        - Description 1.
-        #        - Description 2.
-        #    - title: Topic 2.
-        #      items:
-        #        - Description 1.
-        #        - Description 2.
-        #
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
