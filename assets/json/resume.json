@@ -110,59 +110,75 @@
   
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Can Close-In Exoplanets Form by Pebble Accretion?",
+      "publisher": "Monthly Notices of the Royal Astronomical Society",
+      "releaseDate": "2025-05-05",
+      "url": "https://academic.oup.com/mnras/article/540/1/165/8125472?login=false",
+      "summary": "Pebble accretion is the leading theory for the formation of exoplanets more massive than the Earth. Many parameters influence planet growth in the pebble accretion models. In this paper, we study the influence of pebble fragmentation velocity, turbulence strength, stellar metallicity, stellar mass, and planet location on the growth of planets located within 1 au from their parent stars. Analysing the close-in planets from NASA’s exoplanet archive, we find that the turbulence strength influences planet growth more than the pebble fragmentation velocity does. Planets orbiting stars with higher metallicity have an overall higher probability of reaching their pebble isolation mass than those orbiting lower metallicity stars, but the impact of metallicity is not as high as that of stellar mass, orbital separation, and most importantly disc turbulence."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Mass-Zero constrained molecular dynamics for electrostatic interactions",
+      "publisher": "ArXiv",
+      "releaseDate": "2025-05-26",
+      "url": "https://arxiv.org/abs/2505.20418",
+      "summary": "Optimal exploitation of supercomputing resources for the evaluation of electrostatic forces remains a challenge in molecular dynamics simulations of very large systems. The most efficient methods are currently based on particle-mesh Ewald sums and achieve semi-logarithmic scaling in the number of particles. These methods, however, solve the problem in reciprocal space, requiring extensive use of Fast Fourier transforms (FFT). The communication overhead associated with FFTs is a well-known bottleneck for high-end parallelization. In this work, we introduce a novel real-space approach to solve the Poisson equation on a grid. Our method exploits an extended Lagrangian in which the values of the field at the grid points are treated as auxiliary variables of zero inertia, and the discretized Poisson equation is enforced as dynamical constraint. We first analyze the method using a toy model, and then consider realistic simulations of molten NaCl that validate its ability to reproduce structural and transport properties, and showcase the features of our algorithm on a non-trivial benchmark. Finally, we discuss the computational performance and scaling behavior of the algorithm."
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "name": "Turbulence Inference from Synthetic Observations",
+      "publisher": "Submitted"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        	"atomistic ML",
+          "role of symmetries",
+          "quantum chemistry",
+          "long-range interactions",
+          "inverse design",
+          "quantum mechanics",
+          "mathematical physics",
+          "statistical mechanics",
+          "materials for energy storage",
+          "materials for quantum computing"
       ]
     }
+  ],
+  "Extracurricular Activities": [
+    {
+      "title": "Chief Editor",
+      "date": "2023",
+      "awarder": "NCCR MARVEL",
+      "url": "https://nccr-marvel.ch/outreach/equal-opportunities/inspire-description",
+      "summary": "I am a recipient of the NCCR-MARVEL Inspire Potentials Scholarship. It helped me fund my Master's thesis project with Prof. Sara Bonella at EPFL, Switzerland."
+    },
+    {
+      "title": "ANU-FRT Scholar",
+      "date": "2024-05",
+      "awarder": "The Australian National Univeristy",
+      "url": "https://science.anu.edu.au/study/scholarships/future-research-talent-awards-india",
+      "summary": "I was a recipient of the FRT Scholarship in the year 2024. I used the scholarship to fund my internship with Prof. Christoph Feddarath in ANU, Australia"
+    },
+    {
+      "title": "DAAD_WISE Scholar",
+      "date": "2023-05",
+      "awarder": "The DAAD, Germany",
+      "summary": "I was a recipient of the DAAD Scholarship in the year 2023. I used the scholarship to fund my internship with Dr Joanna Drążkowska in Göttingen, Germany"
+    },
+    {
+      "title": "Zonal Topper Award",
+      "date": "2022-05",
+      "awarder": "Mimamsa, IISER Pune",
+      "url": "https://www.pks.mpg.de/quant22/scientific-program",
+      "summary": "I was a part of the Zonal Topper winning team for the states of Punjab and Haryana."
+    },
+    {
+      "title": "QUANT22 Master's School",
+      "date": "2022-05",
+      "awarder": "MPI-PKS",
+      "url": "http://mimamsa.iiserpune.ac.in/",
+      "summary": "I was selected to attend a 4-day virtual master's school organized by the Max Planck Institute for the Physics of Complex Systems between October 4th 2022, and October 6th 2022."
+    }
+
   ]
 }
