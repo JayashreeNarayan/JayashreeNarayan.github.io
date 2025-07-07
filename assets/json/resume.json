@@ -16,16 +16,16 @@
   },
   "work": [
     {
-      "name": "FU Berlin",
-      "position": "Doctoral Candidate",
+      "name": "Doctoral Candidate",
+      "position": "FU Berlin",
       "url": "https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-clementi/index.html",
       "startDate": "09/2025",
       "highlights": ["Funded by the MSCA doctoral network for Track the Twin. Supervised by Prof. Cecilia Clementi."]
     },
 
     {
-      "name": "Inspire Potentials Fellow",
-      "position": "École Polytechnique Fédérale de Lausanne (EPFL)",
+      "name": "École Polytechnique Fédérale de Lausanne (EPFL)",
+      "position": "Inspire Potentials Fellow",
       "url": "https://nccr-marvel.ch/outreach/equal-opportunities/inspire-potentials-fellows/jayashree-narayan",
       "startDate": "08/2024",
       "endDate": "04/2025",
@@ -33,8 +33,8 @@
     },
 
     {
-      "name": "Future Research Talent Fellow",
-      "position": "Australian National University",
+      "name": "Australian National University",
+      "position": "Future Research Talent Fellow",
       "url": "https://science.anu.edu.au/study/scholarships/future-research-talent-awards-india",
       "startDate": "05/2024",
       "endDate": "08/2024",
@@ -42,19 +42,19 @@
     },
 
     {
-      "name": "DAAD-WISE Scholar",
-      "position": "Max Planck Institute for Solar System Research",
+      "name": "Max Planck Institute for Solar System Research",
+      "position": "DAAD-WISE Scholar",
       "url": "https://www.mps.mpg.de/en",
       "startDate": "05/2023",
       "endDate": "08/2023",
-      "highlights": ["I learned and understood the Metropolis Monte Carlo method (MMC) using C++. I wrote a code to use the MMC method and numerically analyze the results obtained in D.Berenstein et.al.'s paper called 'Multimatrix models and emergent geometry'. "]
+      "highlights": ["I worked under the guidance of Dr Joanna Drążkowska at the Max Planck Institute for Solar System Research in Göttingen, Germany, from May 2023 to August 2023, with a DAAD-WISE Scholarship. I completed a research project on Planet Formation wherein I studied the influence of disk turbulence, pebble fragmentation and stellar metallicity on planet growth by pebble accretion model using the pebble predictor (pioneered by Dr Drążkowska) along with the analytical fit from Ormel & Liu (2018); Liu & Ormel (2018). The results fortify the theory that the likelihood of planet formation (for close-in planets) is high when there is high pebble fragmentation, low disk turbulence, or even a very metallic star."]
     },
     {
-      "name": "Intern",
-      "position": "IISER Mohali",
+      "name": "IISER Mohali",
+      "position": "Intern",
       "startDate": "05/2022",
       "endDate": "08/2022",
-      "highlights": ["I worked under the guidance of Dr Joanna Drążkowska at the Max Planck Institute for Solar System Research in Göttingen, Germany, from May 2023 to August 2023, with a DAAD-WISE Scholarship. I completed a research project on Planet Formation wherein I studied the influence of disk turbulence, pebble fragmentation and stellar metallicity on planet growth by pebble accretion model using the pebble predictor (pioneered by Dr Drążkowska) along with the analytical fit from Ormel & Liu (2018); Liu & Ormel (2018). The results fortify the theory that the likelihood of planet formation (for close-in planets) is high when there is high pebble fragmentation, low disk turbulence, or even a very metallic star."],
+      "highlights": ["I learned and understood the Metropolis Monte Carlo method (MMC) using C++. I wrote a code to use the MMC method and numerically analyze the results obtained in D.Berenstein et.al.'s paper called 'Multimatrix models and emergent geometry'. "],
       "publication": ["https://academic.oup.com/mnras/article/540/1/165/8125472?login=false"]
     }
   ],
@@ -62,7 +62,7 @@
     {
       "institution": "IISER Mohali",
       "location": "Mohali, India",
-      "url": "iisermohali.ac.in",
+      "url": "https://www.iisermohali.ac.in/",
       "area": "Physics",
       "studyType": "BS+MS dual degree",
       "startDate": "2020-12",
@@ -132,14 +132,11 @@
     {
       "keywords": [
         	"atomistic ML",
-          "role of symmetries",
           "quantum chemistry",
           "long-range interactions",
-          "inverse design",
           "quantum mechanics",
           "mathematical physics",
           "statistical mechanics",
-          "materials for energy storage",
           "materials for quantum computing"
       ]
     }
@@ -160,7 +157,7 @@
       "summary": "I was a recipient of the FRT Scholarship in the year 2024. I used the scholarship to fund my internship with Prof. Christoph Feddarath in ANU, Australia"
     },
     {
-      "title": "DAAD_WISE Scholar",
+      "title": "DAAD-WISE Scholar",
       "date": "2023-05",
       "awarder": "The DAAD, Germany",
       "summary": "I was a recipient of the DAAD Scholarship in the year 2023. I used the scholarship to fund my internship with Dr Joanna Drążkowska in Göttingen, Germany"
