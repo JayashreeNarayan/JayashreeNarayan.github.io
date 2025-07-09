@@ -14,15 +14,28 @@
       }
     ]
   },
-  "work": [
+  "education": [
     {
-      "name": "Doctoral Candidate",
-      "position": "FU Berlin",
-      "url": "https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-clementi/index.html",
-      "startDate": "09/2025",
-      "highlights": ["Funded by the MSCA doctoral network for Track the Twin. Supervised by Prof. Cecilia Clementi."]
+      "institution": "Freie Universität Berlin",
+      "location": "Germany",
+      "url": "https://www.fu-berlin.de/en/index.html",
+      "area": "Physics",
+      "studyType": "PhD",
+      "startDate": "2025-09"
     },
 
+    {
+      "institution": "IISER Mohali",
+      "location": "India",
+      "url": "https://www.iisermohali.ac.in/",
+      "area": "Physics",
+      "studyType": "BS+MS dual degree",
+      "startDate": "2020-12",
+      "endDate": "2025-05",
+      "score": "8.9"
+    }
+  ],
+  "work": [
     {
       "name": "École Polytechnique Fédérale de Lausanne (EPFL)",
       "position": "Inspire Potentials Fellow",
@@ -58,19 +71,14 @@
       "publication": ["https://academic.oup.com/mnras/article/540/1/165/8125472?login=false"]
     }
   ],
-  "education": [
-    {
-      "institution": "IISER Mohali",
-      "location": "Mohali, India",
-      "url": "https://www.iisermohali.ac.in/",
-      "area": "Physics",
-      "studyType": "BS+MS dual degree",
-      "startDate": "2020-12",
-      "endDate": "2025-05",
-      "score": "8.9"
-    }
-  ],
   "awards": [
+    {
+      "title": "MSCA Doctoral Fellowship Awardee ",
+      "date": "2025-09",
+      "awarder": "Marie Sklodowska-Curie Actions",
+      "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks",
+      "summary": "My Doctoral degree is funded by the Marie Sklodowska-Curie Actions Doctoral Network 'Track the Twin'"
+    },
     {
       "title": "MARVEL Inspire Potentials",
       "date": "2024-08",
