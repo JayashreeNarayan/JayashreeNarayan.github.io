@@ -23,10 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-i-am-joining-fu-berlin-for-a-phd-sparkles",
-          title: 'I am joining FU Berlin for a PhD! :sparkles:',
-          description: "",
-          section: "News",},{id: "news-my-first-first-author-paper-is-finally-out-2-years-of-work-finally-paid-off-check-it-out-here",
+        },{id: "news-my-first-first-author-paper-is-finally-out-2-years-of-work-finally-paid-off-check-it-out-here",
           title: 'My first first author paper is finally out! 2 years’ of work finally...',
           description: "",
           section: "News",},{id: "news-the-work-i-did-in-my-master-s-thesis-project-at-cecam-epfl-has-been-uploaded-to-arxiv-with-me-as-the-3rd-author-check-it-out-here",
@@ -34,6 +31,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-graduated-from-iiser-mohali-who-would-have-thought-it",
           title: 'Graduated from IISER Mohali! Who would have thought it??',
+          description: "",
+          section: "News",},{id: "news-i-am-joining-fu-berlin-for-a-phd-sparkles",
+          title: 'I am joining FU Berlin for a PhD! :sparkles:',
           description: "",
           section: "News",},{
         id: 'social-bluesky',
