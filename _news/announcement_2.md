@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first first author paper is finally out! 2 years' of work finally paid off.
+My first first author paper is finally out! 2 years' of work finally paid off. Check it out [here!][https://academic.oup.com/mnras/article/540/1/165/8125472]
