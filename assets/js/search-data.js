@@ -26,7 +26,7 @@ ninja.data = [{
         },{id: "news-i-am-joining-fu-berlin-for-a-phd-sparkles",
           title: 'I am joining FU Berlin for a PhD! :sparkles:',
           description: "",
-          section: "News",},{id: "news-my-first-first-author-paper-is-finally-out-2-years-of-work-finally-paid-off",
+          section: "News",},{id: "news-my-first-first-author-paper-is-finally-out-2-years-of-work-finally-paid-off-check-it-out-here-https-academic-oup-com-mnras-article-540-1-165-8125472",
           title: 'My first first author paper is finally out! 2 years’ of work finally...',
           description: "",
           section: "News",},{id: "news-graduated-from-iiser-mohali-who-would-have-thought-it",
