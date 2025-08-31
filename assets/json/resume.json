@@ -42,7 +42,7 @@
       "url": "https://nccr-marvel.ch/outreach/equal-opportunities/inspire-potentials-fellows/jayashree-narayan",
       "startDate": "08/2024",
       "endDate": "04/2025",
-      "highlights": ["My thesis efficiently implemented a novel method for simulating electrostatic interactions of charged particles in molecular dynamics. The algorithm leverages a constrained extended Lagrangian formalism to integrate the Poisson equation, promising computational advantages in highly parallelized setups. A liquid molten salt serves as the test system. The study covered the theoretical framework, system setup, and parallelization strategies used to accelerate simulations within an in-house code"]
+      "highlights": ["This was my Master's thesis project. I worked on speeding up an in-house code to simulate electrostatic forces in condensed phase systems."]
     },
 
     {
@@ -51,7 +51,7 @@
       "url": "https://science.anu.edu.au/study/scholarships/future-research-talent-awards-india",
       "startDate": "05/2024",
       "endDate": "08/2024",
-      "highlights": ["I worked under the guidance of Prof. Christoph Feddarath at the Australian National University, Canberra, Australia, from May 2024 to August 2024, with the FRT Scholarship. I completed a research project in Star Formation wherein I studied the influence of optical thickness on turbulent star-forming molecular clouds. My work was an extension of Prof. Christoph's paper in 2021 where the same work was done in an optically thin environment. The results fortify the understanding that optical thickness in clouds plays a significant role in the way clouds collapse and that optical thickness cannot be ignored."]
+      "highlights": ["As an intern at ANU, Canberra, I worked on the calculation of turbulence in star forming clouds under optically thick conditions. A publication is coming out, for the same in the MNRAS journal."]
     },
 
     {
@@ -60,7 +60,7 @@
       "url": "https://www.mps.mpg.de/en",
       "startDate": "05/2023",
       "endDate": "08/2023",
-      "highlights": ["I worked under the guidance of Dr Joanna Drążkowska at the Max Planck Institute for Solar System Research in Göttingen, Germany, from May 2023 to August 2023, with a DAAD-WISE Scholarship. I completed a research project on Planet Formation wherein I studied the influence of disk turbulence, pebble fragmentation and stellar metallicity on planet growth by pebble accretion model using the pebble predictor (pioneered by Dr Drążkowska) along with the analytical fit from Ormel & Liu (2018); Liu & Ormel (2018). The results fortify the theory that the likelihood of planet formation (for close-in planets) is high when there is high pebble fragmentation, low disk turbulence, or even a very metallic star."]
+      "highlights": ["As an intern in MPS Goettingen I worked on understanding the effect that different commonly used parameters have on the formation of planets which exist within 1 au of their parent stars. This is now published."]
     },
     {
       "name": "IISER Mohali",
@@ -122,14 +122,14 @@
       "publisher": "Monthly Notices of the Royal Astronomical Society",
       "releaseDate": "2025-05-05",
       "url": "https://academic.oup.com/mnras/article/540/1/165/8125472?login=false",
-      "summary": "Pebble accretion is the leading theory for the formation of exoplanets more massive than the Earth. Many parameters influence planet growth in the pebble accretion models. In this paper, we study the influence of pebble fragmentation velocity, turbulence strength, stellar metallicity, stellar mass, and planet location on the growth of planets located within 1 au from their parent stars. Analysing the close-in planets from NASA’s exoplanet archive, we find that the turbulence strength influences planet growth more than the pebble fragmentation velocity does. Planets orbiting stars with higher metallicity have an overall higher probability of reaching their pebble isolation mass than those orbiting lower metallicity stars, but the impact of metallicity is not as high as that of stellar mass, orbital separation, and most importantly disc turbulence."
+      "summary": "Pebble accretion is the leading model for forming exoplanets larger than Earth. We investigate how pebble fragmentation velocity, turbulence strength, stellar metallicity, stellar mass, and orbital location affect planet growth within 1 au. Using close-in planets from NASA’s exoplanet archive, we find that turbulence plays a greater role than fragmentation velocity. While higher stellar metallicity increases the likelihood of planets reaching pebble isolation mass, stellar mass, orbital separation, and especially disc turbulence have stronger effects."
     },
     {
       "name": "Mass-Zero constrained molecular dynamics for electrostatic interactions",
       "publisher": "ArXiv",
       "releaseDate": "2025-05-26",
       "url": "https://arxiv.org/abs/2505.20418",
-      "summary": "Optimal exploitation of supercomputing resources for the evaluation of electrostatic forces remains a challenge in molecular dynamics simulations of very large systems. The most efficient methods are currently based on particle-mesh Ewald sums and achieve semi-logarithmic scaling in the number of particles. These methods, however, solve the problem in reciprocal space, requiring extensive use of Fast Fourier transforms (FFT). The communication overhead associated with FFTs is a well-known bottleneck for high-end parallelization. In this work, we introduce a novel real-space approach to solve the Poisson equation on a grid. Our method exploits an extended Lagrangian in which the values of the field at the grid points are treated as auxiliary variables of zero inertia, and the discretized Poisson equation is enforced as dynamical constraint. We first analyze the method using a toy model, and then consider realistic simulations of molten NaCl that validate its ability to reproduce structural and transport properties, and showcase the features of our algorithm on a non-trivial benchmark. Finally, we discuss the computational performance and scaling behavior of the algorithm."
+      "summary": "Efficient evaluation of electrostatic forces remains a challenge in large-scale molecular dynamics. State-of-the-art particle-mesh Ewald methods scale semi-logarithmically but rely on reciprocal-space FFTs, which limit parallel performance. We present a novel real-space approach that solves the Poisson equation on a grid via an extended Lagrangian, treating field values as auxiliary zero-inertia variables with the equation enforced as a dynamical constraint. After validating the method on a toy model, we apply it to molten NaCl, reproducing structural and transport properties and demonstrating favorable performance and scalability."
     },
     {
       "name": "Turbulence Inference from Synthetic Observations",
@@ -176,13 +176,6 @@
       "awarder": "Mimamsa, IISER Pune",
       "url": "https://www.pks.mpg.de/quant22/scientific-program",
       "summary": "I was a part of the Zonal Topper winning team for the states of Punjab and Haryana."
-    },
-    {
-      "title": "QUANT22 Master's School",
-      "date": "2022-05",
-      "awarder": "MPI-PKS",
-      "url": "http://mimamsa.iiserpune.ac.in/",
-      "summary": "I was selected to attend a 4-day virtual master's school organized by the Max Planck Institute for the Physics of Complex Systems between October 4th 2022, and October 6th 2022."
     }
 
   ]
