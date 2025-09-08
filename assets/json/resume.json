@@ -51,7 +51,7 @@
       "url": "https://science.anu.edu.au/study/scholarships/future-research-talent-awards-india",
       "startDate": "05/2024",
       "endDate": "08/2024",
-      "highlights": ["As an intern at ANU, Canberra, I worked on the calculation of turbulence in star forming clouds under optically thick conditions. A publication is coming out, for the same in the MNRAS journal."]
+      "highlights": ["As an intern at ANU, Canberra, I worked on the calculation of turbulence in star forming clouds under optically thick conditions. The work has been accepted by MNRAS for publication."]
     },
 
     {
@@ -133,7 +133,10 @@
     },
     {
       "name": "Turbulence Inference from Synthetic Observations",
-      "publisher": "Submitted"
+      "publisher": "ArXiv",
+      "releaseDate": "2025-09-08",
+      "url": "https://arxiv.org/abs/2509.04818",
+      "summary": "This study looks at how well we can measure turbulence in star-forming clouds using CO emission lines. Earlier methods assumed the gas was transparent, but in reality, opacity and radiative transfer affect the signal. By simulating CO emission with more realistic physics, we find that turbulence measurements from CO lines are typically 10–15% too high, and in some cases up to 40% too high. We provide correction factors to make future measurements more accurate."
     }
   ],
   "interests": [
