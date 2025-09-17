@@ -39,11 +39,11 @@ ninja.data = [{
           section: "News",},{id: "news-graduated-from-iiser-mohali-who-would-have-thought-it",
           title: 'Graduated from IISER Mohali! Who would have thought it??',
           description: "",
-          section: "News",},{id: "news-i-am-joining-fu-berlin-for-a-phd-sparkles",
-          title: 'I am joining FU Berlin for a PhD! :sparkles:',
-          description: "",
           section: "News",},{id: "news-my-second-first-author-paper-has-finally-been-accepted-for-publication-by-mnras-link",
           title: 'My second first-author paper has finally been accepted for publication by MNRAS! link!...',
+          description: "",
+          section: "News",},{id: "news-i-start-at-fu-berlin-sparkles",
+          title: 'I start at FU Berlin! :sparkles:',
           description: "",
           section: "News",},{
         id: 'social-bluesky',
@@ -57,7 +57,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6A%61%79%61%73%68%72%65%65%6E%61%72%61%79%61%6E%67%73@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%6A%61%79%61%73%68%72%65%65.%6E%61%72%61%79%61%6E@%66%75-%62%65%72%6C%69%6E.%64%65", "_blank");
         },
       },{
         id: 'social-github',
