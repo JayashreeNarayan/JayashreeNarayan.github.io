@@ -45,6 +45,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-start-at-fu-berlin-sparkles",
           title: 'I start at FU Berlin! :sparkles:',
           description: "",
+          section: "News",},{id: "news-my-second-first-author-paper-has-finally-been-published-by-the-monthly-notices-of-the-royal-astronomical-society-find-it-here",
+          title: 'My second first-author paper has finally been published by the Monthly Notices of...',
+          description: "",
+          section: "News",},{id: "news-the-paper-i-worked-on-during-my-master-s-thesis-project-at-epfl-has-finally-been-published-by-the-journal-of-chemical-physics-check-it-out-here",
+          title: 'The paper I worked on during my Master’s Thesis project at EPFL has...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
