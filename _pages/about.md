@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am doing my PhD at FU Berlin funded by the [MSCA Doctoral Network](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/doctoral-networks) [Track the Twin](https://trackthetwin.ugent.be/). I work with [Prof. Cecilia Clementi](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-clementi/index.html).
+I am doing my PhD at AG Clementi (https://clementigroup.github.io/; I built the website!) funded by the MSCA Doctoral Network [Track the Twin](https://trackthetwin.ugent.be/). I am currently working on building MLIPs for Perovskite Halide Quantum Dots!
 
-In June 2025 I graduated from [IISER Mohali](https://www.iisermohali.ac.in/) with a BS-MS dual degree in Physics. I started my journey at IISER with a profound interest in Astronomy. With this interest, I did internships at the [Max Planck Institute for Solar System Research](https://www.mps.mpg.de/en), Goettingen and the [Australian National Univeristy](https://www.anu.edu.au/), Canberra. In my final year at IISER, my interests shifted toward the dynamics of molecular systems. For my Master's thesis project, I worked at [EPFL Switzerland](https://www.epfl.ch/en/) with [Prof. Sara Bonella](https://people.epfl.ch/sara.bonella/?lang=en) at [CECAM](https://www.cecam.org/). 
+In June 2025, I graduated from [IISER Mohali](https://www.iisermohali.ac.in/) with a BS-MS dual degree in Physics. I started my journey at IISER with a profound interest in Astronomy. With this interest, I did internships at the [Max Planck Institute for Solar System Research](https://www.mps.mpg.de/en), Goettingen and the [Australian National Univeristy](https://www.anu.edu.au/), Canberra. In my final year at IISER, my interests shifted toward the dynamics of molecular systems. For my Master's thesis project, I worked at [EPFL Switzerland](https://www.epfl.ch/en/) with [Prof. Sara Bonella](https://people.epfl.ch/sara.bonella/?lang=en) at [CECAM](https://www.cecam.org/). 
 
-My current interests include Machine Learning for Material science. 
+My current interests include Machine Learning for Material science and novel materials. 
 
