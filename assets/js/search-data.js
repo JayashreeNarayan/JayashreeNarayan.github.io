@@ -51,6 +51,9 @@ ninja.data = [{
           section: "News",},{id: "news-the-paper-i-worked-on-during-my-master-s-thesis-project-at-epfl-has-finally-been-published-by-the-journal-of-chemical-physics-check-it-out-here",
           title: 'The paper I worked on during my Master’s Thesis project at EPFL has...',
           description: "",
+          section: "News",},{id: "news-i-won-a-best-poster-award-at-the-summer-school-hosted-by-swiss-chemical-society-scs-in-beautiful-haute-nendaz-last-week-link-here-extremely-grateful-for-the-support-of-zak-cecilia-and-track-the-twin",
+          title: 'I won a best poster award at the Summer School hosted by Swiss...',
+          description: "",
           section: "News",},{
         id: 'social-bluesky',
         title: 'Bluesky',
