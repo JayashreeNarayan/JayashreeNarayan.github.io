@@ -6,6 +6,7 @@
     <title>{{ site.first_name }} {{ site.last_name }}</title>
     <meta name="description" content="{{ page.subtitle | strip_html | strip }}">
     <link rel="icon" href="{{ site.icon | prepend: '/assets/img/' | relative_url }}">
+    <link rel="apple-touch-icon" href="{{ '/assets/img/apple-touch-icon.png' | relative_url }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
@@ -118,7 +119,7 @@
 
       <section id="publications">
         <h2>Publications</h2>
-        {% bibliography --template bib_onepage --group_by none %}
+        {% bibliography %}
       </section>
 
       <section id="cv">
