@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://JayashreeNarayan.github.io/sitemap.xml
+Sitemap: https://jayashreenarayan.github.io/sitemap.xml
