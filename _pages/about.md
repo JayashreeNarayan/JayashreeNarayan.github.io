@@ -1,35 +1,35 @@
 ---
-layout: about
+layout: onepage
 title: About
 permalink: /
-subtitle: PhD student, <a href="https://www.fu-berlin.de/en/">FU Berlin</a> | Previously <a href="https://www.iisermohali.ac.in/">IISER Mohali</a>
+subtitle: PhD student, <a href="https://www.fu-berlin.de/en/">FU Berlin</a> | Theoretical Physics
 
 profile:
   align: right
-  image: prof_pic_color.jpeg
+  image: profile_square.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Arnimallee 12</p>
     <p>Room 206</p>
     <p>14195 Berlin</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit: 2 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am doing my PhD at [AG Clementi](https://clementigroup.github.io/)(I built the website!) funded by the MSCA Doctoral Network [Track the Twin](https://trackthetwin.ugent.be/). I am currently working on building MLIPs for Perovskite Halide Quantum Dots!
+I am doing my PhD at [AG Clementi](https://clementigroup.github.io/) funded by the MSCA Doctoral Network [Track the Twin](https://trackthetwin.ugent.be/). I am currently working on building MLIPs for Perovskite Halide Quantum Dots!
 
-In June 2025, I graduated from [IISER Mohali](https://www.iisermohali.ac.in/) with a BS-MS dual degree in Physics. I started my journey at IISER with a profound interest in Astronomy. With this interest, I did internships at the [Max Planck Institute for Solar System Research](https://www.mps.mpg.de/en), Goettingen and the [Australian National Univeristy](https://www.anu.edu.au/), Canberra. In my final year at IISER, my interests shifted toward the dynamics of molecular systems. For my Master's thesis project, I worked at [EPFL Switzerland](https://www.epfl.ch/en/) with [Prof. Sara Bonella](https://people.epfl.ch/sara.bonella/?lang=en) at [CECAM](https://www.cecam.org/). 
+In June 2025, I graduated from [IISER Mohali](https://www.iisermohali.ac.in/) with a BS-MS dual degree in Physics.
 
 My current interests include Machine Learning for Material science and novel materials. 
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-My second first-author paper has finally been published by the Monthly Notices of the Royal Astronomical Society! Find it [here!](https://academic.oup.com/mnras/article/544/4/4173/8256868?login=false)
+My second first-author paper is published in MNRAS — [read it here](https://doi.org/10.1093/mnras/staf1503).

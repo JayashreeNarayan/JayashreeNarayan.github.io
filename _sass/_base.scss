@@ -197,8 +197,9 @@ ul.task-list input[type="checkbox"] {
 
   .more-info {
     margin-bottom: 5px;
-    margin-top: 5px;
-    font-family: monospace;
+    margin-top: 0.75rem;
+    font-size: 0.85rem;
+    color: var(--global-text-color-light);
 
     p {
       display: inline-block;
@@ -217,7 +218,7 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 22%;
 
     .address {
       p {
@@ -401,28 +402,30 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.5rem;
 
     a {
+      margin: 0 0.35rem;
+
       img {
-        width: 3.2rem;
-        height: 3.2rem;
-        margin-bottom: 1rem;
+        width: 1.5rem;
+        height: 1.5rem;
+        margin-bottom: 0.5rem;
       }
 
       svg {
-        width: 3.5rem;
-        height: 4rem;
+        width: 1.5rem;
+        height: 1.5rem;
         margin-bottom: 0.5rem;
 
         image {
-          width: 3.5rem;
-          height: 3.5rem;
+          width: 1.5rem;
+          height: 1.5rem;
         }
       }
 
       i::before {
-        color: var(--global-text-color);
+        color: var(--global-text-color-light);
         transition-property: all 0.2s ease-in-out;
       }
 
@@ -495,9 +498,10 @@ footer.fixed-bottom {
 
 footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
-  padding-top: 40px;
-  padding-bottom: 40px;
-  font-size: 0.9rem;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  font-size: 0.8rem;
+  color: var(--global-text-color-light);
 
   .container {
     text-align: center;
@@ -510,16 +514,23 @@ footer.sticky-bottom {
   margin-bottom: 40px;
 
   .card {
-    background-color: var(--global-card-bg-color);
-    border: 1px solid var(--global-divider-color);
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
 
     .list-group-item {
       background-color: inherit;
       border-color: var(--global-divider-color);
 
       .badge {
-        color: var(--global-card-bg-color) !important;
-        background-color: var(--global-theme-color) !important;
+        color: var(--global-text-color-light) !important;
+        background: none !important;
+        box-shadow: none !important;
+        font-weight: 400 !important;
+        text-transform: none !important;
+        padding: 0;
       }
     }
   }
@@ -789,17 +800,17 @@ footer.sticky-bottom {
 
       .links {
         a.btn {
-          color: var(--global-text-color);
-          border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;
-          margin-left: 0;
+          color: var(--global-theme-color);
+          border: none;
+          box-shadow: none;
+          background: none;
+          padding: 0;
+          margin: 0 1rem 0 0;
+          font-size: 0.85rem;
+          text-transform: lowercase;
 
           &:hover {
-            color: var(--global-theme-color);
-            border-color: var(--global-theme-color);
+            text-decoration: underline;
           }
         }
         a.award.btn {

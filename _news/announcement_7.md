@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-The paper I worked on during my Master's Thesis project at EPFL has finally been published by The Journal of Chemical Physics! Check it out [here!](https://pubs.aip.org/aip/jcp/article/163/21/214106/3373572/Mass-zero-constrained-molecular-dynamics-for)
+My Master’s thesis paper is out in J. Chem. Phys. — [read it here](https://doi.org/10.1063/5.0283356).

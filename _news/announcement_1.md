@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated from IISER Mohali! Who would have thought it??
+Graduated from IISER Mohali!
