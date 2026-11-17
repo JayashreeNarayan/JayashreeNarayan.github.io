@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a>PhD student, FU Berlin</a>. | Prev - IISER Mohali
+subtitle: PhD student, <a href="https://www.fu-berlin.de/en/">FU Berlin</a> | Previously <a href="https://www.iisermohali.ac.in/">IISER Mohali</a>
 
 profile:
   align: right
