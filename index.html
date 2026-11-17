@@ -122,7 +122,7 @@
           
             <li>
               <span class="when">Jul 2026</span>
-              <span class="what">I built the <a href="https://clementigroup.github.io/">AG Clementi website</a>!</span>
+              <span class="what">I built the new <a href="https://clementigroup.github.io/">AG Clementi website</a>!</span>
             </li>
           
             <li>
@@ -223,5 +223,12 @@
         </p>
       </div>
     </footer>
+    <script>
+      // Open links to other websites in a new tab
+      document.querySelectorAll('a[href^="http"]').forEach(function (a) {
+        a.target = "_blank";
+        a.rel = "noopener noreferrer";
+      });
+    </script>
   </body>
 </html>
